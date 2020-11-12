@@ -1,0 +1,3 @@
+# ActivityLifeCycle_11AndroidStdio
+生命週期示範
+生活サイクルデモ
